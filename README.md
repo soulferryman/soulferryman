@@ -1,7 +1,7 @@
-# Hi there! I'm Dong Jianyu
-an Open Source Community Manager specializing in AI, embodied intelligence, developer relations, and community operations. I've built my career at companies like Baidu, Cloudwise, and InfoQ, and currently lead the open source community at the Beijing Humanoid Robot Innovation Center. Here are some of the projects I've been involved in and helped grow:
+# 😄 Hi there! I'm Dong Jianyu
+ 🔭an Open Source Community Manager specializing in AI, embodied intelligence, developer relations, and community operations. I've built my career at companies like Baidu, Cloudwise, and InfoQ, and currently lead the open source community at the Beijing Humanoid Robot Innovation Center. Here are some of the projects I've been involved in and helped grow:
 
-# Open Source Projects
+# 🌱Open Source Projects
 <table><tbody>
 
 <table class="table table-striped table-bordered table-vcenter"/>
@@ -25,21 +25,10 @@ an Open Source Community Manager specializing in AI, embodied intelligence, deve
     </tr>
     </tbody>
 </table>
-<!--
-**soulferryman/soulferryman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+# 👯 reach me
+- elijah.dong@x-humanoid.com
+- dongjianyu1994@outlook.com
 
 <p>
 <img height="145em" align="left" src="https://github-readme-stats.vercel.app/api?username=soulferryman&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&include_all_commits=false&hide=stars" />
