@@ -50,7 +50,7 @@
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/zh/6/65/Death_stranding_cover.jpg" width="100"><br/>デスストランディング</td>
     <td><img src="https://upload.wikimedia.org/wikipedia/zh/1/1a/The_Legend_of_Zelda_Breath_of_the_Wild.png" width="100"><br/>ゼルダの伝説 ブレス オブ ザ ワイルド</td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/zh/c/c5/MarioKart_8_boxart.png" width="100"><br/>マリオカート8</td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/zh/3/37/Mario_Kart_8_DX.jpg" width="100"><br/>マリオカート8</td>
     <td><img src="https://upload.wikimedia.org/wikipedia/zh/9/97/%E8%96%A9%E7%88%BE%E9%81%94%E5%82%B3%E8%AA%AA%E7%8E%8B%E5%9C%8B%E4%B9%8B%E6%B7%9A.jpg" width="100"><br/>ゼルダの伝説 ティアーズ オブ ザ キングダム</td>
     <td><img src="https://upload.wikimedia.org/wikipedia/zh/9/99/%E6%96%AF%E6%99%AE%E6%8B%89%E9%81%813%E5%B0%81%E9%9D%A2.jpg" width="100"><br/>Splatoon 3</td>
      <td><img src="https://upload.wikimedia.org/wikipedia/zh/0/03/Super_smash_bros_ultimate_2018.jpg" width="100"><br/>大乱闘スマッシュブラザーズ SPECIAL</td>
