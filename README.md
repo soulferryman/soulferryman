@@ -53,6 +53,7 @@
     <td><img src="https://upload.wikimedia.org/wikipedia/zh/c/c5/MarioKart_8_boxart.png" width="100"><br/>马里奥赛车8</td>
     <td><img src="https://upload.wikimedia.org/wikipedia/zh/9/97/%E8%96%A9%E7%88%BE%E9%81%94%E5%82%B3%E8%AA%AA%E7%8E%8B%E5%9C%8B%E4%B9%8B%E6%B7%9A.jpg" width="100"><br/>塞尔达王国之泪</td>
     <td><img src="https://upload.wikimedia.org/wikipedia/zh/9/99/%E6%96%AF%E6%99%AE%E6%8B%89%E9%81%813%E5%B0%81%E9%9D%A2.jpg" width="100"><br/>斯普拉遁3</td>
+     <td><img src="https://upload.wikimedia.org/wikipedia/zh/0/03/Super_smash_bros_ultimate_2018.jpg" width="100"><br/>任天堂明星大乱斗 特别版</td>
   </tr>
 </table>
 
