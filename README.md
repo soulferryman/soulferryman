@@ -32,8 +32,8 @@
 
 <table>
   <tr>
-    <td><img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2358720/b7f722ddd5e23503f598586aa3700dd4d827bb2d/capsule_231x87.jpg" width="100"><br/>黑神话：悟空</td>
-    <td><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1720558643" width="100"><br/>Red Dead Redemption 2</td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/zh/a/a6/Black_Myth_Wukong_cover_art.jpg" width="100"><br/>黑神话：悟空</td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/zh/5/56/Red_Dead_Redemption_2_cover.jpg" width="100"><br/>Red Dead Redemption 2</td>
     <td><img src="https://upload.wikimedia.org/wikipedia/zh/8/8c/Gran_Turismo_7_Coverart.jpg" width="100"><br/>Gran Turismo 7</td>
     <td><img src="https://upload.wikimedia.org/wikipedia/zh/6/62/Elden_Ring_cover.png" width="100"><br/>Elden Ring</td>
     <td><img src="https://upload.wikimedia.org/wikipedia/zh/f/fe/Sekiro_art_%28Re-uploaded%29.jpg" width="100"><br/>Sekiro: Shadows Die Twice</td>
