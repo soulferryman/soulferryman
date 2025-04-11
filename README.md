@@ -41,7 +41,7 @@ These are the open-source projects I've led and run
 
 
 # 🎮 Played Games 
-
+I’m a huge gaming fan, and I really dig how Nintendo approaches game design. Here’s a list of games I’ve played and absolutely loved:
 
 <table>
   <tr>
