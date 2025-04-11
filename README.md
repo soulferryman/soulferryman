@@ -2,6 +2,7 @@
  🔭an Open Source Community Manager specializing in AI, embodied intelligence, developer relations, and community operations. I've built my career at companies like Baidu, Cloudwise, and InfoQ, and currently lead the open source community at the Beijing Humanoid Robot Innovation Center. Here are some of the projects I've been involved in and helped grow:
 
 # 🌱Open Source Projects
+These are the open-source projects I've led and run
 <table><tbody>
 
 <table class="table table-striped table-bordered table-vcenter"/>
