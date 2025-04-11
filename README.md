@@ -22,6 +22,18 @@
           <td align="center" > <a href="https://github.com/CloudWise-OpenSource/GAIA-DataSet">GAIA-DataSet</a></td>
         <td> GAIA, with the full name Generic AIOps Atlas, is an overall dataset for analyzing operation problems such as anomaly detection, log analysis, fault localization, etc..<br></a></td>
     </tr>
+   <tr>
+         <td align="center" > <a href="https://github.com/x-humanoid-robomind/TienKung_URDF">TienKung_URDF</a></td>
+        <td>URDF mechanical description files, STL mesh files, and STEP structural drawings for the TienKung general-purpose humanoid robot, including Lite and Pro versions, suitable for ROS and Gazebo simulation environments.<br></a></td>
+    </tr>
+     <tr>
+          <td align="center" > <a href="https://github.com/x-humanoid-robomind/TienKung_ROS">TienKung_ROS</a></td>
+        <td>The software system for the Lite version of the TienKung general-purpose humanoid robot, developed based on the ROS framework, responsible for the robot's basic motion control and hardware drivers. It includes key modules such as robot body control, motion planning, robot description, and remote controller communication, supporting the robot's use and secondary development in various application scenarios.<br></a></td>
+    </tr>
+    <tr>
+          <td align="center" > <a href="https://github.com/x-humanoid-robomind/TienKung_Docs">TienKung_Docs</a></td>
+        <td> User manuals and SDK documentation for the TienKung general-purpose humanoid robot, including Lite and Pro versions, covering robot unboxing, daily use, maintenance guides, and SDK interface descriptions to help users and developers use and develop TienKung robots more efficiently.<br></a></td>
+    </tr>
     </tr>
     </tbody>
 </table>
