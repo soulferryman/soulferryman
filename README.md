@@ -51,7 +51,7 @@
     <td><img src="https://upload.wikimedia.org/wikipedia/zh/6/65/Death_stranding_cover.jpg" width="100"><br/>死亡搁浅</td>
     <td><img src="https://upload.wikimedia.org/wikipedia/zh/1/1a/The_Legend_of_Zelda_Breath_of_the_Wild.png" width="100"><br/>塞尔达旷野之息</td>
     <td><img src="https://upload.wikimedia.org/wikipedia/zh/c/c5/MarioKart_8_boxart.png" width="100"><br/>马里奥赛车8</td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/zh/9/97/%E8%96%A9%E7%88%BE%E9%81%94%E5%82%B3%E8%AA%AA%E7%8E%8B%E5%9C%8B%E4%B9%8B%E6%B7%AA.jpg" width="100"><br/>塞尔达王国之泪</td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/zh/9/97/%E8%96%A9%E7%88%BE%E9%81%94%E5%82%B3%E8%AA%AA%E7%8E%8B%E5%9C%8B%E4%B9%8B%E6%B7%9A.jpg" width="100"><br/>塞尔达王国之泪</td>
     <td><img src="https://upload.wikimedia.org/wikipedia/zh/9/99/%E6%96%AF%E6%99%AE%E6%8B%89%E9%81%813%E5%B0%81%E9%9D%A2.jpg" width="100"><br/>斯普拉遁3</td>
   </tr>
 </table>
