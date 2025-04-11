@@ -29,82 +29,34 @@
 
 # 🎮 Played Games 
 
+
 <table>
   <tr>
-    <td>
-      <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2358720/b7f722ddd5e23503f598586aa3700dd4d827bb2d/capsule_231x87.jpg" width="100">
-      <br/>黑神话：悟空
-    </td>
-    <td>
-      <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1720558643" width="100">
-      <br/>荒野大镖客2
-    </td>
-    <td>
-      <img src="https://upload.wikimedia.org/wikipedia/zh/8/8c/Gran_Turismo_7_Coverart.jpg" width="100">
-      <br/>跑车浪漫旅7
-    </td>
-    <td>
-      <img src="https://upload.wikimedia.org/wikipedia/zh/6/62/Elden_Ring_cover.png" width="100">
-      <br/>艾尔登法环
-    </td>
-    <td>
-      <img src="https://upload.wikimedia.org/wikipedia/zh/f/fe/Sekiro_art_%28Re-uploaded%29.jpg" width="100">
-      <br/>只狼
-    </td>
-    <td>
-      <img src="https://upload.wikimedia.org/wikipedia/zh/0/0a/V_coverart_1024x768.jpg" width="100">
-      <br/>GTA5
-    </td>
-    <td>
-      <img src="https://upload.wikimedia.org/wikipedia/zh/1/12/Baldur%27s_Gate_3_cover_art.jpg" width="100">
-      <br/>博德之门3
-    </td>
+    <td><img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2358720/b7f722ddd5e23503f598586aa3700dd4d827bb2d/capsule_231x87.jpg" width="100"><br/>黑神话：悟空</td>
+    <td><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1720558643" width="100"><br/>荒野大镖客2</td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/zh/8/8c/Gran_Turismo_7_Coverart.jpg" width="100"><br/>跑车浪漫旅7</td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/zh/6/62/Elden_Ring_cover.png" width="100"><br/>艾尔登法环</td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/zh/f/fe/Sekiro_art_%28Re-uploaded%29.jpg" width="100"><br/>只狼</td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/zh/0/0a/V_coverart_1024x768.jpg" width="100"><br/>GTA5</td>
   </tr>
   <tr>
-    <td>
-      <img src="https://upload.wikimedia.org/wikipedia/zh/e/ee/%E3%80%8A%E6%96%87%E6%98%8EVI%E3%80%8B%E5%B0%81%E9%9D%A2.jpg" width="100">
-      <br/>文明6
-    </td>
-    <td>
-      <img src="https://upload.wikimedia.org/wikipedia/zh/0/0c/Witcher_3_cover_art.jpg" width="100">
-      <br/>巫师3：狂猎
-    </td>
-    <td>
-      <img src="https://upload.wikimedia.org/wikipedia/zh/9/9f/Cyberpunk_2077_box_art.jpg" width="100">
-      <br/>赛博朋克2077
-    </td>
-    <td>
-      <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1888160/header_schinese.jpg?t=1726158706" width="100">
-      <br/>装甲核心6
-    </td>
-    <td>
-      <img src="https://upload.wikimedia.org/wikipedia/zh/b/b6/Ghost_of_Tsushima.jpg" width="100">
-      <br/>对马岛之魂
-    </td>
-    <td>
-      <img src="https://upload.wikimedia.org/wikipedia/zh/6/65/Death_stranding_cover.jpg" width="100">
-      <br/>死亡搁浅
-    </td>
-    <td>
-      <img src="https://upload.wikimedia.org/wikipedia/zh/1/1a/The_Legend_of_Zelda_Breath_of_the_Wild.png" width="100">
-      <br/>塞尔达旷野之息
-    </td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/zh/1/12/Baldur%27s_Gate_3_cover_art.jpg" width="100"><br/>博德之门3</td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/zh/e/ee/%E3%80%8A%E6%96%87%E6%98%8EVI%E3%80%8B%E5%B0%81%E9%9D%A2.jpg" width="100"><br/>文明6</td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/zh/0/0c/Witcher_3_cover_art.jpg" width="100"><br/>巫师3：狂猎</td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/zh/9/9f/Cyberpunk_2077_box_art.jpg" width="100"><br/>赛博朋克2077</td>
+    <td><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1888160/header_schinese.jpg?t=1726158706" width="100"><br/>装甲核心6</td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/zh/b/b6/Ghost_of_Tsushima.jpg" width="100"><br/>对马岛之魂</td>
   </tr>
   <tr>
-    <td>
-      <img src="https://upload.wikimedia.org/wikipedia/zh/c/c5/MarioKart_8_boxart.png" width="100">
-      <br/>马里奥赛车8
-    </td>
-    <td>
-      <img src="https://upload.wikimedia.org/wikipedia/zh/9/97/%E8%96%A9%E7%88%BE%E9%81%94%E5%82%B3%E8%AA%AA%E7%8E%8B%E5%9C%8B%E4%B9%8B%E6%B7%9A.jpg" width="100">
-      <br/>塞尔达王国之泪
-    </td>
-    <td>
-      <img src="https://upload.wikimedia.org/wikipedia/zh/9/99/%E6%96%AF%E6%99%AE%E6%8B%89%E9%81%813%E5%B0%81%E9%9D%A2.jpg" width="100">
-      <br/>斯普拉遁3
-    </td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/zh/6/65/Death_stranding_cover.jpg" width="100"><br/>死亡搁浅</td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/zh/1/1a/The_Legend_of_Zelda_Breath_of_the_Wild.png" width="100"><br/>塞尔达旷野之息</td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/zh/c/c5/MarioKart_8_boxart.png" width="100"><br/>马里奥赛车8</td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/zh/9/97/%E8%96%A9%E7%88%BE%E9%81%94%E5%82%B3%E8%AA%AA%E7%8E%8B%E5%9C%8B%E4%B9%8B%E6%B7%AA.jpg" width="100"><br/>塞尔达王国之泪</td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/zh/9/99/%E6%96%AF%E6%99%AE%E6%8B%89%E9%81%813%E5%B0%81%E9%9D%A2.jpg" width="100"><br/>斯普拉遁3</td>
   </tr>
 </table>
+
+
 
 # 👯 reach me
 - elijah.dong@x-humanoid.com
@@ -123,3 +75,4 @@
     alt="Top Languages"
   />
 </div>
+
