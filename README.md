@@ -77,16 +77,14 @@ I’m a huge gaming fan, and I really dig how Nintendo approaches game design. H
 - dongjianyu1994@outlook.com
 
 
-<div style="display: flex; flex-direction: column; gap: 20px;">
+
   <img 
     height="145em" 
     src="https://github-readme-stats.vercel.app/api?username=soulferryman&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&include_all_commits=false&hide=stars" 
     alt="GitHub Stats"
   />
-  <img 
-    height="145em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=soulferryman&exclude_repo=KNN-Image-Classification&show_icons=true&text_color=718096&layout=compact&langs_count=6&bg_color=ffffff" 
-    alt="Top Languages"
-  />
-</div>
-
+<img 
+  height="145px" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=soulferryman&exclude_repo=KNN-Image-Classification&show_icons=true&text_color=718096&layout=compact&langs_count=6&bg_color=ffffff" 
+  alt="Top Languages"
+/>
