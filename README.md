@@ -1,5 +1,9 @@
 # 😄 Hi there! I'm Dong Jianyu
- 🔭an Open Source Community Manager specializing in AI, embodied intelligence, developer relations, and community operations. I've built my career at companies like Baidu, Cloudwise, and InfoQ, and currently lead the open source community at the Beijing Humanoid Robot Innovation Center. Here are some of the projects I've been involved in and helped grow:
+
+- dongjianyu（董建宇）
+- an Open Source Community Operations Manager
+- specializing in AI, embodied intelligence, developer relations, and community operations
+-  Working for: Beijing Humanoid Robot Innovation Center、Baidu、Cloudwise、InfoQ
 
 # 🌱Open Source Projects
 These are the open-source projects I've led and run
@@ -17,7 +21,7 @@ These are the open-source projects I've led and run
     </tr>
      <tr>
           <td align="center" > <a href="https://github.com/CloudWise-OpenSource/OMP">OMP</a></td>
-        <td>OMP (Operation Management Platform) is CloudWise’s in-house developed lightweight, all-in-one smart operations management system. Think of it as your Swiss Army knife for IT operations – it packs all the essential tools you need to streamline workflows and manage business operations effortlessly. The whole point is to supercharge automation and smart features, making ops teams way more efficient while keeping your systems running like clockwork and data secure. Basically, it’s like having an auto-pilot for your tech infrastructure that just gets things done smoothly..<br></a></td>
+        <td>OMP (Operation Management Platform) is CloudWise’s in-house developed lightweight, all-in-one smart operations management system.<br></a></td>
     </tr>
     <tr>
           <td align="center" > <a href="https://github.com/CloudWise-OpenSource/GAIA-DataSet">GAIA-DataSet</a></td>
@@ -29,11 +33,11 @@ These are the open-source projects I've led and run
     </tr>
      <tr>
           <td align="center" > <a href="https://github.com/x-humanoid-robomind/TienKung_ROS">TienKung_ROS</a></td>
-        <td>The software system for the Lite version of the TienKung general-purpose humanoid robot, developed based on the ROS framework, responsible for the robot's basic motion control and hardware drivers. It includes key modules such as robot body control, motion planning, robot description, and remote controller communication, supporting the robot's use and secondary development in various application scenarios.<br></a></td>
+        <td>The software system for the Lite version of the TienKung general-purpose humanoid robot, developed based on the ROS framework.<br></a></td>
     </tr>
     <tr>
           <td align="center" > <a href="https://github.com/x-humanoid-robomind/TienKung_Docs">TienKung_Docs</a></td>
-        <td> User manuals and SDK documentation for the TienKung general-purpose humanoid robot, including Lite and Pro versions, covering robot unboxing, daily use, maintenance guides, and SDK interface descriptions to help users and developers use and develop TienKung robots more efficiently.<br></a></td>
+        <td> User manuals and SDK documentation for the TienKung general-purpose humanoid robot,.<br></a></td>
     </tr>
     </tr>
     </tbody>
