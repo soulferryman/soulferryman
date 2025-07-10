@@ -16,6 +16,19 @@ These are the open-source projects I've led and run
     <tr>
        <td align="center" > <a href="https://x-humanoid-robomind.github.io/">RoboMIND</a></td>
         <td>  a comprehensive dataset featuring 107k real-world demonstration trajectories spanning 479 distinct tasks and involving 96 unique object classes.<br></a></td>
+    <tr>
+          <td align="center" > <a href="https://github.com/Open-X-Humanoid/TienKung-Lab">TienKung-Lab</a></td>
+        <td> This framework is an RL-based locomotion control system designed for full-sized humanoid robots, TienKung. It integrates AMP-style rewards with periodic gait rewards, facilitating natural, stable, and efficient walking and running behaviors.
+<br></a></td>
+    </tr>
+<tr>
+         <td align="center" > <a href="https://github.com/x-humanoid-robomind/TienKung_URDF">TienKung_URDF</a></td>
+        <td>URDF mechanical description files, STL mesh files, and STEP structural drawings for the TienKung general-purpose humanoid robot, including Lite and Pro versions, suitable for ROS and Gazebo simulation environments.<br></a></td>
+    </tr>
+     <tr>
+          <td align="center" > <a href="https://github.com/x-humanoid-robomind/TienKung_ROS">TienKung_ROS</a></td>
+        <td>The software system for the Lite version of the TienKung general-purpose humanoid robot, developed based on the ROS framework.<br></a></td>
+    </tr>
      <tr>
          <td align="center" > <a href="https://github.com/CloudWise-OpenSource/FlyFish">FlyFish</a></td>
         <td>FlyFish is a data visualization coding platform. We can create a data model quickly in a simple way, and quickly generate a set of data visualization solutions by dragging.<br></a></td>
@@ -27,19 +40,6 @@ These are the open-source projects I've led and run
     <tr>
           <td align="center" > <a href="https://github.com/CloudWise-OpenSource/GAIA-DataSet">GAIA-DataSet</a></td>
         <td> GAIA, with the full name Generic AIOps Atlas, is an overall dataset for analyzing operation problems such as anomaly detection, log analysis, fault localization, etc..<br></a></td>
-    </tr>
-   <tr>
-         <td align="center" > <a href="https://github.com/x-humanoid-robomind/TienKung_URDF">TienKung_URDF</a></td>
-        <td>URDF mechanical description files, STL mesh files, and STEP structural drawings for the TienKung general-purpose humanoid robot, including Lite and Pro versions, suitable for ROS and Gazebo simulation environments.<br></a></td>
-    </tr>
-     <tr>
-          <td align="center" > <a href="https://github.com/x-humanoid-robomind/TienKung_ROS">TienKung_ROS</a></td>
-        <td>The software system for the Lite version of the TienKung general-purpose humanoid robot, developed based on the ROS framework.<br></a></td>
-    </tr>
-    <tr>
-          <td align="center" > <a href="https://github.com/Open-X-Humanoid/TienKung-Lab">TienKung-Lab</a></td>
-        <td> This framework is an RL-based locomotion control system designed for full-sized humanoid robots, TienKung. It integrates AMP-style rewards with periodic gait rewards, facilitating natural, stable, and efficient walking and running behaviors.
-<br></a></td>
     </tr>
     </tr>
     </tbody>
