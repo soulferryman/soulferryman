@@ -3,7 +3,8 @@
 - dongjianyu（董建宇）
 - an Open Source Community Operations Manager
 - specializing in AI, embodied intelligence, developer relations, and community operations
--  Working for: Beijing Humanoid Robot Innovation Center、Baidu、Cloudwise、InfoQ
+-  Working for: [Beijing Humanoid Robot Innovation Center](https://x-humanoid.com/)
+-  Worked for [Baidu](https://www.baidu.com/)、[Cloudwise](https://www.cloudwise.com/page/company.html)、[InfoQ](https://www.infoq.cn/)
 
 # 🌱Open Source Projects
 These are the open-source projects I've led and run
