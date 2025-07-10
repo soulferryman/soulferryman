@@ -38,8 +38,7 @@ These are the open-source projects I've led and run
     <tr>
           <td align="center" > <a href="https://github.com/Open-X-Humanoid/TienKung-Lab">TienKung-Lab</a></td>
         <td> This framework is an RL-based locomotion control system designed for full-sized humanoid robots, TienKung. It integrates AMP-style rewards with periodic gait rewards, facilitating natural, stable, and efficient walking and running behaviors.
-
-.<br></a></td>
+<br></a></td>
     </tr>
     </tr>
     </tbody>
