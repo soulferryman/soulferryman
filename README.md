@@ -4,7 +4,7 @@
 - an Open Source Community Operations Manager
 - specializing in AI, embodied intelligence, developer relations, and community operations
 -  Working for: [Beijing Humanoid Robot Innovation Center](https://x-humanoid.com/)
--  Worked for [Baidu](https://www.baidu.com/)、[Cloudwise](https://www.cloudwise.com/)、[InfoQ](https://www.infoq.cn/)
+-  Worked for [Baidu](https://home.baidu.com/)、[Cloudwise](https://www.cloudwise.com/)、[InfoQ](https://www.infoq.cn/)
 
 # 🌱Open Source Projects
 These are the open-source projects I've led and run
