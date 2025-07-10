@@ -36,8 +36,10 @@ These are the open-source projects I've led and run
         <td>The software system for the Lite version of the TienKung general-purpose humanoid robot, developed based on the ROS framework.<br></a></td>
     </tr>
     <tr>
-          <td align="center" > <a href="https://github.com/x-humanoid-robomind/TienKung_Docs">TienKung_Docs</a></td>
-        <td> User manuals and SDK documentation for the TienKung general-purpose humanoid robot,.<br></a></td>
+          <td align="center" > <a href="https://github.com/Open-X-Humanoid/TienKung-Lab">TienKung-Lab</a></td>
+        <td> This framework is an RL-based locomotion control system designed for full-sized humanoid robots, TienKung. It integrates AMP-style rewards with periodic gait rewards, facilitating natural, stable, and efficient walking and running behaviors.
+
+.<br></a></td>
     </tr>
     </tr>
     </tbody>
