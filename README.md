@@ -39,7 +39,7 @@ These are the open-source projects I've led and run
     </tr>
     <tr>
           <td align="center" > <a href="https://github.com/CloudWise-OpenSource/GAIA-DataSet">GAIA-DataSet</a></td>
-        <td> GAIA, with the full name Generic AIOps Atlas, is an overall dataset for analyzing operation problems such as anomaly detection, log analysis, fault localization, etc..<br></a></td>
+        <td> GAIA, with the full name Generic AIOps Atlas, is an overall dataset for analyzing operation problems such as anomaly detection, log analysis, fault localization, etc.<br></a></td>
     </tr>
     </tr>
     </tbody>
