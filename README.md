@@ -83,16 +83,24 @@ I’m a huge gaming fan, and I really dig how Nintendo approaches game design. H
 - dongjianyu1994@outlook.com
 
 # GitHub Stats
-<p align="center">
-  <a href="https://github.com/soulferryman">
-    <img src="https://github-readme-stats.vercel.app/api?username=soulferryman&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" height="195" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/soulferryman">
-    <img src="https://streak-stats.demolab.com/?user=soulferryman&amp;theme=tokyonight&amp;hide_border=true" height="195" alt="GitHub Streak Stats" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/soulferryman">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=soulferryman&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=1A1B27" width="100%" alt="GitHub Activity Graph" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/soulferryman">
+        <img src="https://github-readme-stats.vercel.app/api?username=soulferryman&show_icons=true&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/soulferryman">
+        <img src="https://streak-stats.demolab.com/?user=soulferryman&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak Stats" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="https://github.com/soulferryman">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=soulferryman&theme=tokyonight&hide_border=true&bg_color=1A1B27" width="100%" alt="GitHub Activity Graph" />
+      </a>
+    </td>
+  </tr>
+</table>
