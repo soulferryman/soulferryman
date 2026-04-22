@@ -94,3 +94,12 @@ I’m a huge gaming fan, and I really dig how Nintendo approaches game design. H
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=soulferryman&exclude_repo=KNN-Image-Classification&show_icons=true&text_color=718096&layout=compact&langs_count=6&bg_color=ffffff" 
   alt="Top Languages"
 />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soulferryman&show_icons=true&theme=tokyonight&hide_border=true" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soulferryman&theme=tokyonight&hide_border=true" height="195" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soulferryman&theme=tokyonight&hide_border=true&bg_color=1A1B27" width="100%" />
+</div>
